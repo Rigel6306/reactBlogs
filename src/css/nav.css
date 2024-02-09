@@ -1,0 +1,16 @@
+.navContainer{
+    background-color: gray;
+    display: flex;
+}
+
+.linkContainer{
+    margin-left: 300px;
+    margin-top: 20px;
+    padding:20px;
+}
+
+.linkContainer a{
+    padding: 20px;
+}
+
+
